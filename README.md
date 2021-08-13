@@ -1,4 +1,5 @@
 # DeepVision
+### Contributors Bharat Girdhar and Jenisha Thankaraj
 
 ## DETR (DEtection TRansformers)
 
